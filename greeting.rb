@@ -22,5 +22,5 @@ elsif hour < 12
 elsif hour < 18
   puts "Buenas tardes, #{name_options[rand(3)]}."
 else hour < 21
-  puts "Bonne soiree, #{name_options[rand(3)]}."
+  puts "Bonne soirée, #{name_options[rand(3)]}."
 end
